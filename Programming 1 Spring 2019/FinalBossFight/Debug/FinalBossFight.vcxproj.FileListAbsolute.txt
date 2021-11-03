@@ -1,0 +1,2 @@
+D:\Coding UALR\FinalBossFight\Debug\FinalBossFight.exe
+D:\Coding UALR\FinalBossFight\Debug\FinalBossFight.pdb

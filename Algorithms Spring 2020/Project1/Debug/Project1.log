@@ -1,0 +1,4 @@
+﻿  Main.cpp
+E:\Coding Projects\ALGORITHMS\Project2\Main.cpp(123,20): warning C4018: '<': signed/unsigned mismatch
+E:\Coding Projects\ALGORITHMS\Project2\Main.cpp(128,20): warning C4018: '<=': signed/unsigned mismatch
+  Project1.vcxproj -> E:\Coding Projects\ALGORITHMS\Project2\Debug\Project1.exe

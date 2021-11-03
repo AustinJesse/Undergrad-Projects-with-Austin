@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\austi\Desktop\Coding UALR\New Quest 3\Quest 3\Quest 3\Source.cpp(111,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\austi\Desktop\Coding UALR\New Quest 3\Quest 3\Quest 3\Source.cpp(116,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\austi\Desktop\Coding UALR\New Quest 3\Quest 3\Quest 3\Source.cpp(125,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\austi\Desktop\Coding UALR\New Quest 3\Quest 3\Quest 3\Source.cpp(132): warning C4715: 'findRecipe': not all control paths return a value
+  Quest 3.vcxproj -> C:\Users\austi\Desktop\Coding UALR\New Quest 3\Quest 3\Debug\Quest 3.exe

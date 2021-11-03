@@ -1,0 +1,2 @@
+D:\Coding UALR\Labs\Lab 9\x64\Debug\Lab 9.exe
+D:\Coding UALR\Labs\Lab 9\x64\Debug\Lab 9.pdb

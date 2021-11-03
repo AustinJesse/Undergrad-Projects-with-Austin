@@ -1,0 +1,39 @@
+﻿  Source.cpp
+D:\Coding UALR\FinalBossFight\Header.h(14,17): error C2061: syntax error: identifier 'string'
+D:\Coding UALR\FinalBossFight\Header.h(14,86): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Coding UALR\FinalBossFight\Header.h(14,86): warning C4183: 'citizen': missing return type; assumed to be a member function returning 'int'
+D:\Coding UALR\FinalBossFight\Header.h(15,17): error C3646: 'getTitle': unknown override specifier
+D:\Coding UALR\FinalBossFight\Header.h(15,17): error C2059: syntax error: '('
+D:\Coding UALR\FinalBossFight\Header.h(15,25): error C2238: unexpected token(s) preceding ';'
+D:\Coding UALR\FinalBossFight\Header.h(16,18): error C3646: 'getAuthor': unknown override specifier
+D:\Coding UALR\FinalBossFight\Header.h(16,18): error C2059: syntax error: '('
+D:\Coding UALR\FinalBossFight\Header.h(16,26): error C2238: unexpected token(s) preceding ';'
+D:\Coding UALR\FinalBossFight\Source.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Coding UALR\FinalBossFight\Source.cpp(17,87): error C2661: 'Book::Book': no overloaded function takes 4 arguments
+D:\Coding UALR\FinalBossFight\Source.cpp(26,17): error C2039: 'getTitle': is not a member of 'Book'
+D:\Coding UALR\FinalBossFight\Header.h(5): message : see declaration of 'Book'
+D:\Coding UALR\FinalBossFight\Source.cpp(26,26): error C2065: 'getTitle': undeclared identifier
+D:\Coding UALR\FinalBossFight\Source.cpp(30,17): error C2039: 'getTitle': is not a member of 'Book'
+D:\Coding UALR\FinalBossFight\Header.h(5): message : see declaration of 'Book'
+D:\Coding UALR\FinalBossFight\Source.cpp(30,26): error C2065: 'getTitle': undeclared identifier
+D:\Coding UALR\FinalBossFight\Source.cpp(33,11): error C2562: 'main': 'void' function returning a value
+D:\Coding UALR\FinalBossFight\Source.cpp(7): message : see declaration of 'main'
+  Source1.cpp
+D:\Coding UALR\FinalBossFight\Header.h(14,17): error C2061: syntax error: identifier 'string'
+D:\Coding UALR\FinalBossFight\Header.h(14,86): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Coding UALR\FinalBossFight\Header.h(14,86): warning C4183: 'citizen': missing return type; assumed to be a member function returning 'int'
+D:\Coding UALR\FinalBossFight\Header.h(15,17): error C3646: 'getTitle': unknown override specifier
+D:\Coding UALR\FinalBossFight\Header.h(15,17): error C2059: syntax error: '('
+D:\Coding UALR\FinalBossFight\Header.h(15,25): error C2238: unexpected token(s) preceding ';'
+D:\Coding UALR\FinalBossFight\Header.h(16,18): error C3646: 'getAuthor': unknown override specifier
+D:\Coding UALR\FinalBossFight\Header.h(16,18): error C2059: syntax error: '('
+D:\Coding UALR\FinalBossFight\Header.h(16,26): error C2238: unexpected token(s) preceding ';'
+D:\Coding UALR\FinalBossFight\Source1.cpp(5,14): error C2039: 'getTitle': is not a member of 'Book'
+D:\Coding UALR\FinalBossFight\Header.h(5): message : see declaration of 'Book'
+D:\Coding UALR\FinalBossFight\Source1.cpp(5,30): error C2270: 'getTitle': modifiers not allowed on nonmember functions
+D:\Coding UALR\FinalBossFight\Source1.cpp(6,9): error C2065: 'title': undeclared identifier
+D:\Coding UALR\FinalBossFight\Source1.cpp(9,14): error C2039: 'getAuthor': is not a member of 'Book'
+D:\Coding UALR\FinalBossFight\Header.h(5): message : see declaration of 'Book'
+D:\Coding UALR\FinalBossFight\Source1.cpp(9,32): error C2270: 'getAuthor': modifiers not allowed on nonmember functions
+D:\Coding UALR\FinalBossFight\Source1.cpp(10,9): error C2065: 'author': undeclared identifier
+  Generating Code...
